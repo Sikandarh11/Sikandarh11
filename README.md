@@ -9,7 +9,7 @@
 - 🏆 Ranked among the top contributors in various hackathons and coding platforms.
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sadam-barkat/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/Sikandar Hussain/) 
 [![Leetcode](https://img.shields.io/badge/-Leetcode-orange?style=flat-square&logo=Leetcode&logoColor=white)](https://leetcode.com/u/sadambarkat/) 
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sadambarkat) 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-brightgreen?style=flat-square&logo=Hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sadambarkat405) 
@@ -70,18 +70,18 @@
 ---
 ### 🔥 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadam-Barkat&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sikandar Hussain&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
 ---
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadam-Barkat&theme=dark" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sikandar Hussain&theme=dark" alt="GitHub Streak">
 </p>
 
 ----
 ### 📈 GitHub Activity:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadam-Barkat&theme=react&hide_border=true" alt="GitHub Activity">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sikandar Hussain&theme=react&hide_border=true" alt="GitHub Activity">
 </p>
 
 ---
@@ -89,12 +89,12 @@
 
 | Repository Name               | Description                                       | Link                                                       |
 |-------------------------------|---------------------------------------------------|------------------------------------------------------------|
-| *LeetCode_Problems*                   | Solutions to LeetCode problems for coding practice | [LeetCode_Problems](https://github.com/Sadam-Barkat/LeetCode_Problems)            |
-| *SQL_HackerRank_Problems*                 | My solutions to HackerRank challenges             | [SQL_HackerRank_Problems](https://github.com/Sadam-Barkat/SQL_HackerRank_Problems)        |
-| *50_SQL_LeetCode_Problems*              | A collection of SQL solutions to LeetCode problems | [50_SQL_LeetCode_Problems](https://github.com/Sadam-Barkat/50_SQL_LeetCode_Problems.git)  |
-| *Cloud-Native-Agentic-AI*           | My projects related to Cloud-Native-Agentic-AI        | [Cloud-Native-Agentic-AI](https://github.com/Sadam-Barkat/Cloud-Native-Agentic-AI) |
+| *LeetCode_Problems*                   | Solutions to LeetCode problems for coding practice | [LeetCode_Problems](https://github.com/Sikandar Hussain/LeetCode_Problems)            |
+| *SQL_HackerRank_Problems*                 | My solutions to HackerRank challenges             | [SQL_HackerRank_Problems](https://github.com/Sikandar Hussain/SQL_HackerRank_Problems)        |
+| *50_SQL_LeetCode_Problems*              | A collection of SQL solutions to LeetCode problems | [50_SQL_LeetCode_Problems](https://github.com/Sikandar Hussain/50_SQL_LeetCode_Problems.git)  |
+| *Cloud-Native-Agentic-AI*           | My projects related to Cloud-Native-Agentic-AI        | [Cloud-Native-Agentic-AI](https://github.com/Sikandar Hussain/Cloud-Native-Agentic-AI) |
 | *Data_Structures_And_Algorithms*| Repository for learning and practicing data structures and algorithms | [Data_Structures_And_Algorithms](https://github.com/Sadam-Barkt/Data_Structures_And_Algorithms) |
-| *Python_For_DataAnalysis*      | Python scripts for data analysis and manipulation | [Python_For_DataAnalysis](https://github.com/Sadam-Barkat/Python_For_DataAnalysis) |
+| *Python_For_DataAnalysis*      | Python scripts for data analysis and manipulation | [Python_For_DataAnalysis](https://github.com/Sikandar Hussain/Python_For_DataAnalysis) |
 
 
 ---
