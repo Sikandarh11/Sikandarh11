@@ -6,7 +6,7 @@
 - 🚀 Cloud-Native ML: Deployed models on Azure using Docker, Flask, and CI/CD pipelines.
 - 🧪 Passion for Research: EEG signal analysis, hybrid CNN-LSTM modeling, and real-time health tech innovations.
 - 🛠 Skilled in building ML pipelines, REST APIs, and scalable web apps.
-- 🏆 1st authored 2 research papers (in progress), multiple hackathon participations.
+- 🏆 1st authored 2 research papers (in progress).
 
 ---
 
