@@ -2,7 +2,6 @@
 
 ## 👨‍💻 Machine Learning Engineer | AI Researcher | Cloud Enthusiast | Open Source Contributor
 
-- 🎯 *Top 100 GitHub Contributor in Pakistan* — Always aiming higher!
 - 🧠 AI-Powered Solutions: Built diagnostic systems & recommendation engines using CNN-LSTM, NLP, and collaborative filtering.
 - 🚀 Cloud-Native ML: Deployed models on Azure using Docker, Flask, and CI/CD pipelines.
 - 🧪 Passion for Research: EEG signal analysis, hybrid CNN-LSTM modeling, and real-time health tech innovations.
