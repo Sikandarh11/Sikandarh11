@@ -18,25 +18,14 @@
 - **Tech:** Python, TensorFlow, PyTorch, EEG signal analysis.
 - **Highlights:** CNN-LSTM hybrid modeling, medical diagnostic systems.
 
-### 2. [Dravet-Syndrome-Research](https://github.com/Sikandarh11/Dravet-Syndrome-Research)
-- **Domain:** AI Research, Healthcare
-- **Focus:** Scientific research and ML for Dravet Syndrome.
-- **Tech:** Python, Data Science, Research methodologies.
-- **Highlights:** Research paper authorship, open datasets.
 
-### 3. [Deep-Learning-Dravet-Syndrome](https://github.com/Sikandarh11/Deep-Learning-Dravet-Syndrome)
-- **Domain:** Deep Learning
-- **Focus:** Experiments and pipelines for EEG and medical signals.
-- **Tech:** Python, ML/DL libraries, Data Analysis.
-- **Highlights:** Custom model architectures, real-time analysis.
-
-### 4. [Digital-Image-Processing](https://github.com/Sikandarh11/Digital-Image-Processing)
+### 2. [Digital-Image-Processing](https://github.com/Sikandarh11/Digital-Image-Processing)
 - **Domain:** Computer Vision
 - **Focus:** Image processing algorithms and ML applications.
 - **Tech:** Python, OpenCV, NumPy, Matplotlib.
 - **Highlights:** Preprocessing, feature extraction, visualization.
 
-### 5. [Eyes-Open-Eye-Close-Research](https://github.com/Sikandarh11/Eyes-Open-Eye-Close-Research)
+### 3. [Eyes-Open-Eye-Close-Research](https://github.com/Sikandarh11/Eyes-Open-Eye-Close-Research)
 - **Domain:** Biomedical Signal Processing
 - **Focus:** Eye state classification via ML on EEG.
 - **Tech:** Python, Scikit-learn, Data Analysis.
