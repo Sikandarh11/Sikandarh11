@@ -10,10 +10,37 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🗂️ Public Repositories (Sample, See All on [GitHub](https://github.com/Sikandarh11?tab=repositories))
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sikandar-hussain-956b3a253/)  
-[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sikandarnust)
+### 1. [Dravet-Syndrome-Deep-Learning-Work](https://github.com/Sikandarh11/Dravet-Syndrome-Deep-Learning-Work)
+- **Domain:** Deep Learning, Medical Data
+- **Focus:** Advanced ML models for Dravet Syndrome data.
+- **Tech:** Python, TensorFlow, PyTorch, EEG signal analysis.
+- **Highlights:** CNN-LSTM hybrid modeling, medical diagnostic systems.
+
+### 2. [Dravet-Syndrome-Research](https://github.com/Sikandarh11/Dravet-Syndrome-Research)
+- **Domain:** AI Research, Healthcare
+- **Focus:** Scientific research and ML for Dravet Syndrome.
+- **Tech:** Python, Data Science, Research methodologies.
+- **Highlights:** Research paper authorship, open datasets.
+
+### 3. [Deep-Learning-Dravet-Syndrome](https://github.com/Sikandarh11/Deep-Learning-Dravet-Syndrome)
+- **Domain:** Deep Learning
+- **Focus:** Experiments and pipelines for EEG and medical signals.
+- **Tech:** Python, ML/DL libraries, Data Analysis.
+- **Highlights:** Custom model architectures, real-time analysis.
+
+### 4. [Digital-Image-Processing](https://github.com/Sikandarh11/Digital-Image-Processing)
+- **Domain:** Computer Vision
+- **Focus:** Image processing algorithms and ML applications.
+- **Tech:** Python, OpenCV, NumPy, Matplotlib.
+- **Highlights:** Preprocessing, feature extraction, visualization.
+
+### 5. [Eyes-Open-Eye-Close-Research](https://github.com/Sikandarh11/Eyes-Open-Eye-Close-Research)
+- **Domain:** Biomedical Signal Processing
+- **Focus:** Eye state classification via ML on EEG.
+- **Tech:** Python, Scikit-learn, Data Analysis.
+- **Highlights:** Signal feature engineering, classifier benchmarking.
 
 ---
 
@@ -26,3 +53,23 @@
 | **Data Analysis** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white) |
 | **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white) |
 | Deployment        | <img src="https://img.shields.io/badge/-FLASK-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> |
+
+---
+
+## 🏆 Achievements
+
+- 💯 Top GitHub Contributor in Pakistan (ranked in top 100).
+- 🥇 1st author of two research papers (in progress).
+- 🏥 Pioneered real-time health tech via deep learning and signal processing.
+- 🏅 Open source contributions spanning ML, cloud, and biomedical domains.
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sikandar-hussain-956b3a253/)  
+[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sikandarnust)
+
+---
+
+> **Note:** For a complete list of Sikandarh11 repositories, visit [GitHub Repositories](https://github.com/Sikandarh11?tab=repositories).
