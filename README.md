@@ -1,64 +1,310 @@
-# 🌟 Top ![#100](https://img.shields.io/badge/100-green) GitHub Contributor in Pakistan (Aiming High!)
+# 🌟 Sikandar Hussain
 
-## 👨‍💻 Machine Learning Engineer | AI Researcher | Cloud Enthusiast | Open Source Contributor
+## 👨‍💻 Machine Learning Engineer | Generative AI Engineer | AI Systems Builder
 
-- 🧠 AI-Powered Solutions: Built diagnostic systems & recommendation engines using CNN-LSTM, NLP, and collaborative filtering.
-- 🚀 Cloud-Native ML: Deployed models on Azure using Docker, Flask, and CI/CD pipelines.
-- 🧪 Passion for Research: EEG signal analysis, hybrid CNN-LSTM modeling, and real-time health tech innovations.
-- 🛠 Skilled in building ML pipelines, REST APIs, and scalable web apps.
-- 🏆 1st authored 2 research papers (in progress).
+Computer Engineering student at **NUST (CEME)** building **production-grade AI systems, LLM applications, and ML infrastructure**.
 
----
-
-## 🗂️ Public Repositories (Sample, See All on [GitHub](https://github.com/Sikandarh11?tab=repositories))
-
-### 1. [Dravet-Syndrome-Deep-Learning-Work](https://github.com/Sikandarh11/Dravet-Syndrome-Deep-Learning-Work)
-- **Domain:** Deep Learning, Medical Data
-- **Focus:** Advanced ML models for Dravet Syndrome data.
-- **Tech:** Python, TensorFlow, PyTorch, EEG signal analysis.
-- **Highlights:** CNN-LSTM hybrid modeling, medical diagnostic systems.
-
-
-### 2. [Digital-Image-Processing](https://github.com/Sikandarh11/Digital-Image-Processing)
-- **Domain:** Computer Vision
-- **Focus:** Image processing algorithms and ML applications.
-- **Tech:** Python, OpenCV, NumPy, Matplotlib.
-- **Highlights:** Preprocessing, feature extraction, visualization.
-
-### 3. [Eyes-Open-Eye-Close-Research](https://github.com/Sikandarh11/Eyes-Open-Eye-Close-Research)
-- **Domain:** Biomedical Signal Processing
-- **Focus:** Eye state classification via ML on EEG.
-- **Tech:** Python, Scikit-learn, Data Analysis.
-- **Highlights:** Signal feature engineering, classifier benchmarking.
+- 🚀 **Machine Learning Engineer Intern — Cowlar Design Studio**
+- ⚙️ **Machine Learning Engineer Intern — Risetech**
+- 🌍 **Selected for MITACS Globalink Research Internship (Canada)**
+- 🧠 Building **LLM agents, RAG systems, ML infrastructure, and scalable AI backends**
 
 ---
 
-## 🧠 Skills & Tools
+# 🧠 Core Focus
 
-| Domain | Technologies |
-|--|--|
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) |
-| **ML/DL Libraries** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **Data Analysis** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white) |
-| **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white) |
-| Deployment        | <img src="https://img.shields.io/badge/-FLASK-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> |
+### 🤖 Generative AI Systems
+- Retrieval Augmented Generation (**RAG**) pipelines  
+- LLM agents and autonomous workflows  
+- Multi-tool reasoning pipelines  
+- Agentic AI systems with **LangGraph & LangChain**  
+- Tool-calling architectures and reasoning chains  
+
+### ⚙️ Machine Learning Engineering
+- Production **model deployment pipelines**
+- Experiment tracking & reproducibility
+- Model versioning and lifecycle management
+- Automated ML workflows and CI/CD integration
+- Feature pipelines and training orchestration
+
+### ☁️ AI Infrastructure
+- Containerized model serving
+- Scalable AI backend APIs
+- High-performance inference systems
+- ML lifecycle orchestration
+- Production monitoring and model version control
 
 ---
 
-## 🏆 Achievements
+# 🗂️ Open Source Projects (Industry / Engineering Focus)
 
-- 💯 Top GitHub Contributor in Pakistan (ranked in top 100).
-- 🥇 1st author of two research papers (in progress).
-- 🏥 Pioneered real-time health tech via deep learning and signal processing.
-- 🏅 Open source contributions spanning ML, cloud, and biomedical domains.
+## 1️⃣ Agentic AI using LangGraph
+🔗 https://github.com/Sikandarh11/Agentic-AI-Using-Langraph
+
+- Multi-step **autonomous AI workflows**
+- Graph-based reasoning agents
+- Tool orchestration with LLMs
+- Stateful agent pipelines
+
+**Tech**
+
+- LangGraph  
+- Python  
+- LLM APIs  
 
 ---
 
-## 🌐 Connect with Me
+## 2️⃣ AI Agent using LangChain
+🔗 https://github.com/Sikandarh11/AI-Agent-Using-Langchain
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sikandar-hussain-956b3a253/)  
+- LLM agent capable of **tool usage**
+- Dynamic reasoning and decision making
+- API and knowledge retrieval integration
+- Modular tool-calling framework
+
+**Tech**
+
+- LangChain  
+- Python  
+- Prompt Engineering  
+
+---
+
+## 3️⃣ Generative AI Applications with LangChain
+🔗 https://github.com/Sikandarh11/Generative-AI-using-LangChain
+
+- LLM application prototypes
+- Retrieval pipelines
+- Prompt engineering experiments
+- Knowledge-grounded LLM responses
+
+**Tech**
+
+- LangChain  
+- Python  
+- RAG pipelines  
+
+---
+
+## 4️⃣ ML CI/CD Pipeline Experiments
+🔗 https://github.com/Sikandarh11/CICD_Cowlar
+
+- Continuous integration workflows for **ML systems**
+- Automated training and deployment pipelines
+- Experiment reproducibility and model versioning
+
+**Tech**
+
+- Docker  
+- GitHub Actions  
+- Python  
+
+---
+
+## 5️⃣ REST API + ML Deployment
+🔗 https://github.com/Sikandarh11/Restapi-CI-CD
+
+- ML model serving via **REST APIs**
+- CI/CD integration for deployment pipelines
+- Backend integration with ML inference services
+
+**Tech**
+
+- Flask  
+- Docker  
+- CI/CD  
+
+---
+
+## 6️⃣ Azure ML Deployment Pipelines
+🔗 https://github.com/Sikandarh11/Azure-Deploymeny-CI-CD
+
+- Cloud deployment pipelines for ML models
+- Containerized Azure deployment workflows
+- Automated inference deployment
+
+**Tech**
+
+- Azure  
+- Docker  
+- CI/CD  
+
+---
+
+# ⚙️ Selected Engineering Projects
+
+## ❤️ Heart Disease Prediction Web App
+🔗 https://github.com/Sikandarh11/Heart-Disease-Prediction-Website-CICD
+
+- ML-powered disease prediction system
+- Automated Azure deployment pipeline
+- End-to-end backend ML inference service
+
+**Tech**
+
+- Flask  
+- Neural Networks  
+- MongoDB  
+- CI/CD  
+- Azure  
+
+---
+
+## 🥐 Bakery Management Web Application
+🔗 https://github.com/Sikandarh11/bakery-Web-App
+
+- Full-stack web application for **product and order management**
+- Authentication, dashboards, and inventory tracking
+- Backend API-driven architecture
+
+**Tech**
+
+- Flask  
+- MongoDB  
+- Web UI  
+
+---
+
+## 🧬 Biomedical Image Processing
+🔗 https://github.com/Sikandarh11/Digital-Image-Processing
+
+Computer vision experiments including:
+
+- Medical image analysis  
+- Feature extraction  
+- Segmentation  
+- Preprocessing pipelines  
+
+**Tech**
+
+- OpenCV  
+- Python  
+- NumPy  
+
+---
+
+# 🔬 Private Research Repositories
+
+My research work is maintained in **private repositories** due to ongoing publications and intellectual property protection.
+
+These projects focus on **AI for healthcare and neurological disease analysis**.
+
+### Research Areas
+
+- EEG-based neurological disorder classification  
+- Hybrid **CNN-LSTM architectures**
+- Biomarker discovery in EEG signals
+- Digital twins for neurological disease modeling
+- Real-time EEG AI systems
+
+### Selected Topics
+
+- Dravet Syndrome diagnostic AI
+- EEG eye-state classification
+- ICU EEG seizure detection
+- Neurological decision-support tools
+
+> Code can be shared upon request for **academic collaboration or research review**.
+
+---
+
+# 🏢 Industry Experience
+
+## Machine Learning Engineer Intern  
+**Cowlar Design Studio — Islamabad**
+
+- Built **production ML pipelines** for real-world AI systems
+- Deployed scalable inference services using **TorchServe + Docker**
+- Implemented **MLflow and DVC** for experiment tracking and model versioning
+- Integrated ML services with **MongoDB and internal storage systems**
+- Improved model interpretability using **Grad-CAM**
+- Collaborated with backend engineers to integrate ML APIs into internal platforms
+
+---
+
+## Machine Learning Engineer Intern  
+**Risetech — Pakistan**
+
+- Contributed to **production-level ML systems**
+- Optimized data pipelines and training workflows
+- Integrated ML models into backend services
+- Improved **deployment reliability and system stability**
+- Worked on scalable backend ML infrastructure
+
+---
+
+# 🧠 Technical Stack
+
+## 💻 Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
+## 🤖 Machine Learning
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+## 🧠 Generative AI
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/-LangGraph-111111?style=for-the-badge)
+
+- Retrieval Augmented Generation (RAG)  
+- LLM APIs  
+- AI Agents  
+- Tool Calling  
+
+---
+
+## ⚙️ MLOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge)
+![DVC](https://img.shields.io/badge/-DVC-945DD6?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000000?style=for-the-badge)
+
+---
+
+## 🌐 Backend & APIs
+![Flask](https://img.shields.io/badge/-FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+- FastAPI  
+- Django  
+- REST APIs  
+- API-first ML services  
+
+---
+
+## ☁️ Cloud
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+Google Cloud (basic)
+
+---
+
+## 🗄 Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+SQL Databases
+
+---
+
+# 🏆 Achievements
+
+- 💯 **Top GitHub Contributor in Pakistan**
+- 🌍 **MITACS Globalink Research Internship — Canada**
+- 🧪 **2 AI research papers in progress**
+- 🧠 **Patent filed for EEG diagnostic AI system**
+
+---
+
+# 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sikandar-hussain-956b3a253)
+
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Sikandarh11)
+
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sikandarnust)
-
----
-
-> **Note:** For a complete list of Sikandarh11 repositories, visit [GitHub Repositories](https://github.com/Sikandarh11?tab=repositories).
